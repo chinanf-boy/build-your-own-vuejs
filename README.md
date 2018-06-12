@@ -1,40 +1,49 @@
-# Build your own Vuejs
 
-> This project is working in progress, stay tuned.
+# 建立你自己的Vuejs
 
-This repository includes *Build your own Vuejs* book and the code for it.
+> 这个项目正在进行中,敬请关注.   「翻译{translation}」
 
-In the book *Build your own Vuejs*, we will build a Vuejs from scratch. And you will learn how Vuejs works internally, which helps a lot for your daily development with vue. 
+[中文](./readme.md) | [github source](https://github.com/jsrebuild/build-your-own-vuejs)
 
-Inspired by the amazing book *Build your own Angularjs*, the code of *Build your own Vuejs* will be developed in a test-driven way. 
+---
 
-We'll focus on Vuejs 2.0. And we assume our reader have played around with Vuejs once and know basics about Vuejs APIs.
+这个存储库包括_建立你自己的Vuejs_书和它的代码. 
 
-Table of Contents
+在`book`里_建立你自己的Vuejs_,我们将从头开始构建一个Vuejs. 您将了解Vuejs如何在内部工作,这对vue的日常开发有很大帮助. 
 
-+ [Chapter1: Vuejs Overview](https://github.com/jsrebuild/build-your-own-vuejs/blob/master/book/chapter1.md)
-+ [Chapter2: Reactivity system](https://github.com/jsrebuild/build-your-own-vuejs/blob/master/book/chapter2.md)
-+ [Chapter3: Virtual DOM](https://github.com/jsrebuild/build-your-own-vuejs/blob/master/book/chapter3.md)
-+ [Chapter4: Built-in modules: directives, attributes, class and style](https://github.com/jsrebuild/build-your-own-vuejs/blob/master/book/chapter4.md)
-+ [Chapter5: Instance methods and global API](https://github.com/jsrebuild/build-your-own-vuejs/blob/master/book/chapter5.md)
-+ Chapter6: Advanced features
+受到这本令人惊叹的书的启发_建立你自己的Angularjs_,的代码_建立你自己的Vuejs_将以测试驱动的方式开发. 
 
+我们将专注于Vuejs 2.0. 我们假设我们的读者曾经玩过Vuejs并了解Vuejs API的基本知识. 
+
+## 目录
+
+### 校对
+
+> 使用 [translate-mds](https://github.com/chinanf-boy/translate-mds) 完成初稿, 还没校对
+
+`book/*.zh.md` 是 翻译初稿 | `book/*.!zh.md` 是 原文
+
+- [ ] [第1章: Vuejs概述](https://github.com/chinanf-boy/build-your-own-vuejs/blob/master/book/chapter1.zh.md)
+- [ ] [第2章: 反应性系统](https://github.com/chinanf-boy/build-your-own-vuejs/blob/master/book/chapter2.zh.md)
+- [ ] [第3章: 虚拟DOM](https://github.com/chinanf-boy/build-your-own-vuejs/blob/master/book/chapter3.zh.md)
+- [ ] [第4章: 内置模块: 指令,属性,类和样式](https://github.com/chinanf-boy/build-your-own-vuejs/blob/master/book/chapter4.zh.md)
+- [ ] [第5章: 实例方法和全局API](https://github.com/chinanf-boy/build-your-own-vuejs/blob/master/book/chapter5.zh.md)
+- [ ] 第6章: 高级功能
 
 ### Code
 
-#### develop
+#### 发展
 
-`npm run watch`
+`npm run dev`
 
-#### test
+#### 测试
 
 `npm run test`
 
-#### build
+#### 建立
 
 `npm run build`
 
 ### Lisence
 
-Well, do whatever your like.
-
+那么,做任何你喜欢的事情. 
